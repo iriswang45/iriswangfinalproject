@@ -1,6 +1,17 @@
 
 
-p {color: purple}
+p {
+  color: purple
+}
+div p {
+  color: orange;
+  text-decoration: underline;
+}
+
 .slide {
   background-color:salmon
+}
+
+body {
+  background-color: lightblue
 }
