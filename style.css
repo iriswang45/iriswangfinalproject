@@ -1,20 +1,9 @@
-
-h1 {
-  color: white;
-  font-family: sans-serif}
-p {
-  color: purple;
-  font-family: futura; 
-}
-div p {
-  color: orange;
-  text-decoration: underline;
-}
-
-.slide {
-  background-color:salmon
-}
-
 body {
+  margin: 32px;
   background-color: lightblue
 }
+
+.header {text-align: center;
+border: 1px solid white}
+
+
