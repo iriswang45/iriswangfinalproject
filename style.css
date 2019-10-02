@@ -1,14 +1,19 @@
 body {
   margin: 32px;
-  background-color: lightblue
+  background-color: lightblue;
 }
 
-p {font-family: "futura";
-   font-size: 15px 
+p {
+  font-family: "futura";
+  font-size: 15px;
 }
 
-.header {text-align: center;
-border: 1px solid white
+.header {
+  font-family: "times new roman";
+  text-align: center;
+  border: 1px solid white;
 }
 
-
+.image {
+  width: 100px;
+}
