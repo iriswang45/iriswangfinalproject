@@ -5,6 +5,8 @@ body {
 
 p {
   font-family: "timesnewroman";
+  display: flex;
+  justify-content: center;
 }
 
 .header {
@@ -18,7 +20,9 @@ h3 {
   text-align: center;
   font-size: 18px;
   padding-top: 10px;
-  padding-bottom:10px
+  padding-bottom: 10px;
 }
 
-img {position: absolute}
+img {
+  position: absolute;
+}
