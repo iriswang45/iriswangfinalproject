@@ -4,7 +4,7 @@ body {
 }
 
 p {
-  font-family: "Timesnewroman";
+  font-family: "timesnewroman";
   display: flex;
   justify-content: center;
   color: ;
@@ -22,18 +22,26 @@ p {
 h3 {
   text-align: center;
   font-size: 16px;
-  padding-top: 10px;
+  padding-top: 60px;
 
   color: orange;
   font-family: "baskerville";
 }
 
+h4 {
+  text-align: left;
+  font-size: 13px;
+  color: purple;
+  padding-bottom:20px
+}
+
 img {
   padding: 50px;
   border: 1px solid orange;
-  margin: 20px;
+  margin: 50px;
   display: flex;
   justify-content: center;
+  align:center
 }
 
 .position-test {
