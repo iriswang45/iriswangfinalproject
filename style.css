@@ -7,6 +7,7 @@ p {
   font-family: "Timesnewroman";
   display: flex;
   justify-content: center;
+  color: 
 }
 
 .header {
@@ -15,15 +16,38 @@ p {
   border: 3px white;
   border-style: dotted;
   font-size: 20px;
+  color: purple
 }
 
 h3 {
   text-align: center;
-  font-size: 14px;
+  font-size: 16px;
   padding-top: 10px;
   padding-bottom: 10px;
+  color: orange;
+  font-family: "baskerville"
 }
 
+
+
 img {
-  position: absolute;
+  width: 200px;
+  padding: 10px;
+  border: 1px solid black;
+  margin: 20px;
+  display: flex;
+  justify-content: center;
 }
+
+.image-container {
+  width: 150px;
+  border: 10px solid blue;
+  margin: 10px;
+}
+
+.position-test {
+  width: 100px;
+  height: 100px;
+}
+
+.behance {font-family: "baskerville";}
