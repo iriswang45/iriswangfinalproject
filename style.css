@@ -7,7 +7,6 @@ p {
   font-family: "timesnewroman";
   display: flex;
   justify-content: center;
-  color: ;
 }
 
 .header {
@@ -41,10 +40,8 @@ img {
   margin: 50px;
   display: flex;
   justify-content: center;
-  align:center
+  box-align:center
 }
-
-li {align: center}
 
 .position-test {
   width: 100px;
