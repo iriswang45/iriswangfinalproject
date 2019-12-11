@@ -1,5 +1,5 @@
 body {
-  margin: 30pt;
+  margin: 30px;
   background-color: white;
 }
 
@@ -12,26 +12,25 @@ p {
 .header {
   font-family: "Baskerville";
   text-align: center;
-  border: 3pt orange;
+  border: 3px orange;
   border-style: dotted;
-  font-size: 20pt;
+  font-size: 20px;
   color: purple;
 }
 
 h3 {
   text-align: center;
-  font-size: 16pt;
+  font-size: 16px;
   padding-top: 60px;
-
   color: orange;
   font-family: "baskerville";
 }
 
 h4 {
   text-align: left;
-  font-size: 13pt;
+  font-size: 13px;
   color: purple;
-  padding-bottom:20px
+  padding-bottom: 20px;
 }
 
 img {
@@ -40,10 +39,23 @@ img {
   margin: 50px;
   display: flex;
   justify-content: center;
-  box-align:center
+  align-items: center;
+}
+
+li {
+  align-content: center;
 }
 
 .position-test {
   width: 100px;
   height: 100px;
 }
+
+h2 {
+  text-align: left;
+  font-size: 20px;
+  padding-top: 100px;
+  margin: 110px;
+  color: orange;
+}
+
